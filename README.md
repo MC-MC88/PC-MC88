@@ -1,5 +1,5 @@
 # 📘 PCE Mauritanie · Plan Comptable de l'État
-
+**License:** Free for personal and educational use. Commercial use not permitted.
 🇫🇷 Outil interactif de recherche et de consultation du Plan Comptable de l'État mauritanien (conforme à l'Arrêté N° 01180-MF-DGTCP-2022).  
 🇲🇷 أداة تفاعلية للبحث والاطلاع على الخطة المحاسبية للدولة الموريتانية (وفقاً للأمر رقم 01180-MF-DGTCP-2022).
 
