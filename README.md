@@ -1484,7 +1484,7 @@ Le système contient l'intégralité des **728 comptes** répartis dans les 8 cl
 
 ## 👨‍💻 DÉVELOPPEMENT · التطوير
 
-**Conception et interface web :** MC  
+**Conception et interface web :** MC88  
 **Contact :** [mohamed005cheikh@gmail.com](mailto:mohamed005cheikh@gmail.com)  
 **WhatsApp :** [+222 30 72 64 75](https://wa.me/22230726475)
 
