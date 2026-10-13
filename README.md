@@ -1485,6 +1485,31 @@ Le système contient l'intégralité des **728 comptes** répartis dans les 8 cl
 ## 👨‍💻 DÉVELOPPEMENT · التطوير
 
 **Conception et interface web :** MC88  
+
+
+
+## Licence · الرخصة · License
+
+Ce projet est publié sous une **licence personnalisée** — voir [LICENSE](LICENSE).
+
+هذا المشروع منشور بموجب **رخصة خاصة** — راجع ملف [LICENSE](LICENSE).
+
+This project is released under a **custom license** — see [LICENSE](LICENSE).
+
+**FR** — Usage libre (bureau, école, maison). Modification et partage autorisés.
+Attribution obligatoire. Vente interdite. Même licence sur les dérivés.
+Le texte officiel du Ministère des Finances prévaut en cas de divergence.
+
+**AR** — الاستخدام حر (مكتب، مدرسة، منزل). التعديل والمشاركة مسموحان.
+الإسناد إجباري. البيع ممنوع. نفس الرخصة على النسخ المعدّلة.
+النص الرسمي لوزارة المالية هو المرجع في حال الاختلاف.
+
+**EN** — Free use (office, school, home). Modification and sharing allowed.
+Attribution required. Sale forbidden. Same license on derivatives.
+The official text of the Ministry of Finance prevails in case of divergence.
+
+**Coopération · التعاون · Collaboration**
+mohamed005cheikh@gmail.com · https://wa.me/22230726475
 **Contact :** [mohamed005cheikh@gmail.com](mailto:mohamed005cheikh@gmail.com)  
 **WhatsApp :** [+222 30 72 64 75](https://wa.me/22230726475)
 
