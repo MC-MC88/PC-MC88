@@ -1,44 +1,223 @@
-Business Source License 1.1
+================================================================
+  PCE Mauritanie — Custom License
+  Licence personnalisée · رخصة خاصة · Custom License
+================================================================
 
-Parameters
-Licensor: Mohamed Cheikh
-Licensed Work: This software
-The Licensed Work is (c) 2026 Mohamed Cheikh.
-Additional Use Grant: None
-Change Date: 2031-09-20
-Change License: MIT License
+  Copyright (c) 2026 Mohamed Cheikh (MC88)
+  Contact : mohamed005cheikh@gmail.com · https://wa.me/22230726475
 
-Notice
-The Business Source License (this document, or the "License") is not an Open Source license. However, the Licensed Work will eventually be made available under an Open Source License, as stated in this License.
+================================================================
+  1. NATURE OF THIS WORK · NATURE DE L'ŒUVRE · طبيعة العمل
+================================================================
 
-License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved. "Business Source License" is a trademark of MariaDB Corporation Ab.
+FR  Ce projet est une interface. Il n'est pas la source des données.
+    Le plan comptable affiché appartient à la République Islamique de
+    Mauritanie — Ministère des Finances. Il a été publié sous l'Arrêté
+    N° 01180-MF-DGTCP-2022, disponible sur https://www.finances.gov.mr
+    La présente licence s'applique uniquement au travail créé par
+    Mohamed Cheikh (MC88) : l'interface, le moteur de recherche, la
+    mise en forme, la logique JavaScript et la distribution. Elle ne
+    s'applique pas aux données gouvernementales, qui restent la
+    propriété exclusive de l'État mauritanien.
 
-Terms
-The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work. The Licensor may make an Additional Use Grant, above, permitting limited production use.
+AR  هذا المشروع واجهة فقط، وليس مصدر البيانات.
+    الخطة المحاسبية المعروضة هي ملكية الجمهورية الإسلامية الموريتانية
+    — وزارة المالية. وقد نُشرت بموجب الأمر رقم 01180-MF-DGTCP-2022
+    والمتاح على https://www.finances.gov.mr
+    هذه الرخصة تنطبق فقط على العمل الذي أنشأه محمد الشيخ (MC88):
+    الواجهة، محرك البحث، التنسيق، منطق JavaScript، والتوزيع.
+    وهي لا تنطبق على البيانات الحكومية التي تبقى ملكية حصرية
+    للدولة الموريتانية.
 
-Effective on the Change Date, or the fifth anniversary of the first publicly available distribution of a specific version of the Licensed Work under this License, whichever comes first, the Licensor hereby grants you rights under the terms of the Change License, and the rights granted in the paragraph above terminate.
+EN  This project is an interface. It is not the source of the data.
+    The accounting chart shown belongs to the Islamic Republic of
+    Mauritania — Ministry of Finance. It was published under Arrêté
+    N° 01180-MF-DGTCP-2022, available at https://www.finances.gov.mr
+    This License applies only to the work created by Mohamed Cheikh
+    (MC88): the interface, the search engine, the styling, the
+    JavaScript logic, and the packaging. It does not apply to the
+    government data, which remains the exclusive property of the
+    Mauritanian State.
 
-If your use of the Licensed Work does not comply with the requirements currently in effect as described in this License, you must purchase a commercial license from the Licensor, its affiliated entities, or authorized resellers, or you must refrain from using the Licensed Work.
+================================================================
+  2. GRANTED RIGHTS · DROITS ACCORDÉS · الحقوق الممنوحة
+================================================================
 
-All copies of the original and modified Licensed Work, and derivative works of the Licensed Work, are subject to this License. This License applies separately for each version of the Licensed Work and the Change Date may vary for each version of the Licensed Work released by Licensor.
+FR  Vous êtes libre de : UTILISER, ÉTUDIER, MODIFIER, PARTAGER.
+    Ces droits sont accordés pour toujours, dans le monde entier,
+    sans frais, sans date d'expiration.
 
-You must conspicuously display this License on each original or modified copy of the Licensed Work. If you receive the Licensed Work in original or modified form from a third party, the terms and conditions set forth in this License apply to your use of that work.
+AR  لك الحق في: الاستخدام، الدراسة، التعديل، المشاركة.
+    هذه الحقوق ممنوحة للأبد، في كل العالم، بدون مقابل، وبدون
+    تاريخ انتهاء.
 
-Any use of the Licensed Work in violation of this License will automatically terminate your rights under this License for the current and all other versions of the Licensed Work.
+EN  You are free to: USE, STUDY, MODIFY, SHARE.
+    These rights are granted forever, worldwide, at no cost, with no
+    expiry date.
 
-This License does not grant you any right in any trademark or logo of Licensor or its affiliates (provided that you may use a trademark or logo of Licensor as expressly required by this License).
+================================================================
+  3. CONDITIONS · CONDITIONS · الشروط
+================================================================
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED ON AN "AS IS" BASIS. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND TITLE.
+FR  Les droits ci-dessus ne sont accordés que si vous respectez
+    l'ensemble des conditions suivantes :
 
-MariaDB hereby grants you permission to use this License's text to license your works, and to refer to it using the trademark "Business Source License", as long as you comply with the Covenants of Licensor below.
+AR  الحقوق أعلاه لا تُمنح إلا إذا احترمت جميع الشروط التالية:
 
-Covenants of Licensor
-In consideration of the right to use this License's text and the "Business Source License" name and trademark, Licensor covenants to MariaDB, and to all other recipients of the Licensed Work to be provided by Licensor:
+EN  The rights above are granted only if you respect all of the
+    following conditions:
 
-1. To specify as the Change License the GPL Version 2.0 or any later version, or a license that is compatible with GPL Version 2.0 or a later version, where "compatible" means that software provided under the Change License can be included in a program with software provided under GPL Version 2.0 or a later version. Licensor may specify additional Change Licenses without limitation.
+----------------------------------------------------------------
+  3.1  Attribution · Attribution · الإسناد
+----------------------------------------------------------------
 
-2. To either: (a) specify an additional grant of rights to use that does not impose any additional restriction on the right granted in this License, as the Additional Use Grant; or (b) insert the text "None".
+FR  Le nom « Mohamed Cheikh (MC88) » doit rester visible dans votre
+    copie, votre fork, votre version modifiée et toute distribution.
+    Il est interdit de le retirer, de le masquer ou de le remplacer
+    par un autre nom.
 
-3. To specify a Change Date.
+AR  يجب أن يبقى اسم « محمد الشيخ (MC88) » ظاهرًا في نسختك، في
+    تفريعتك، في نسختك المعدّلة، وفي أي توزيع. لا يجوز حذفه أو
+    إخفاؤه أو استبداله باسم آخر.
 
-4. Not to modify this License in any other way.
+EN  The name "Mohamed Cheikh (MC88)" must remain visible in your
+    copy, your fork, your modified version, and any distribution.
+    It may not be removed, hidden, or replaced with another name.
+
+----------------------------------------------------------------
+  3.2  No Commercial Use · Pas de vente · منع الاستخدام التجاري
+----------------------------------------------------------------
+
+FR  Il est interdit de vendre ce projet. Interdiction de le
+    revendre, de le louer, de l'héberger en tant que service payant,
+    de l'intégrer dans un produit payant, ou de l'utiliser pour
+    générer des revenus publicitaires. Cette règle s'applique à la
+    version originale comme à toute version modifiée.
+
+AR  يُمنع بيع هذا المشروع. يُمنع إعادة بيعه، تأجيره، استضافته
+    كخدمة مدفوعة، تضمينه في منتج مدفوع، أو استخدامه لتوليد
+    إيرادات إعلانية. هذا ينطبق على النسخة الأصلية وعلى أي نسخة
+    معدّلة.
+
+EN  You may not sell this project. You may not resell it, rent it,
+    lease it, host it as a paid service, bundle it into a paid
+    product, or use it to generate advertising revenue. This
+    applies to the original version and to any modified version.
+
+----------------------------------------------------------------
+  3.3  Same License on Derivatives · Même licence · نفس الرخصة
+----------------------------------------------------------------
+
+FR  Si vous modifiez ce projet et le distribuez, votre version doit
+    être publiée sous cette même licence, avec ces mêmes conditions.
+    Il est interdit de la relicencier sous d'autres termes.
+
+AR  إذا عدّلت هذا المشروع ووزّعته، يجب أن تُنشَر نسختك بنفس هذه
+    الرخصة وبنفس هذه الشروط. لا يجوز إعادة ترخيصها بشروط أخرى.
+
+EN  If you modify this project and distribute your version, your
+    version must be released under this exact same license, with
+    these exact same conditions. You may not relicense it under
+    different terms.
+
+----------------------------------------------------------------
+  3.4  Official Source Prevails · Le texte officiel prévaut
+       · النص الرسمي هو المرجع
+----------------------------------------------------------------
+
+FR  En cas de divergence entre les données affichées ici et le texte
+    original publié par le Ministère des Finances, le texte original
+    du Ministère des Finances fait foi. Ce projet est une interface,
+    pas une autorité.
+
+AR  في حال وجود أي اختلاف بين البيانات المعروضة هنا والنص الرسمي
+    الصادر عن وزارة المالية، فإن النص الأصلي لوزارة المالية هو
+    المرجع. هذا المشروع واجهة فقط، وليس جهة إصدار.
+
+EN  In case of any difference between the data shown here and the
+    original text published by the Ministry of Finance, the original
+    text of the Ministry of Finance is the reference. This project
+    is an interface, not an authority.
+
+================================================================
+  4. COLLABORATION · COOPÉRATION · التعاون
+================================================================
+
+FR  L'auteur accueille favorablement la coopération. Pour toute
+    idée, correction, traduction, proposition de développement, ou
+    pour tout usage non couvert par cette licence, contactez :
+
+AR  المؤلف يرحّب بالتعاون. لأي فكرة، تصحيح، ترجمة، اقتراح تطوير،
+    أو لأي استخدام غير مشمول في هذه الرخصة، تواصل مع:
+
+EN  The author welcomes collaboration. For any idea, fix,
+    translation, development proposal, or any use not covered by
+    this License, contact:
+
+      mohamed005cheikh@gmail.com
+      https://wa.me/22230726475
+
+FR  L'auteur est heureux de participer au projet, d'examiner les
+    propositions, et d'accorder des autorisations supplémentaires
+    par écrit lorsque la demande est raisonnable.
+
+AR  المؤلف سعيد بأن يكون جزءًا من المشروع، وبأن يدرس المقترحات،
+    وأن يمنح أذونات إضافية كتابيًا عندما يكون الطلب معقولًا.
+
+EN  The author is happy to be part of the project, to review
+    proposals, and to grant additional permissions in writing when
+    the request is reasonable.
+
+================================================================
+  5. NO WARRANTY · AUCUNE GARANTIE · إخلاء الضمان
+================================================================
+
+FR  Ce projet est fourni « en l'état », sans garantie d'aucune
+    sorte, expresse ou implicite, y compris, sans limitation, les
+    garanties de qualité marchande, d'adéquation à un usage
+    particulier et d'absence de contrefaçon. En aucun cas l'auteur
+    ne pourra être tenu responsable de toute réclamation, dommage
+    ou autre responsabilité, que ce soit dans le cadre d'un
+    contrat, d'un délit ou autre, découlant du projet ou de son
+    utilisation.
+
+AR  هذا المشروع مُقدَّم « كما هو »، بدون أي ضمان من أي نوع، صريح
+    أو ضمني، بما في ذلك على سبيل المثال لا الحصر: ضمانات القابلية
+    للتسويق، الملاءمة لغرض معين، وعدم التعدي. لا يمكن تحميل
+    المؤلف بأي حال المسؤولية عن أي مطالبة أو ضرر أو مسؤولية
+    أخرى، سواء في إطار عقد أو ضرر أو غيره، ناتجة عن المشروع أو
+    عن استخدامه.
+
+EN  This project is provided "AS IS", without warranty of any kind,
+    express or implied, including but not limited to the warranties
+    of merchantability, fitness for a particular purpose, and
+    non-infringement. In no event shall the author be liable for
+    any claim, damages, or other liability, whether in an action of
+    contract, tort, or otherwise, arising from, out of, or in
+    connection with the project or the use or other dealings in the
+    project.
+
+================================================================
+  6. TERMINATION · RÉSILIATION · الإنهاء
+================================================================
+
+FR  Toute utilisation de ce projet en violation de l'une des
+    conditions de la Section 3 entraîne automatiquement la
+    résiliation de vos droits sous cette licence, pour la version
+    actuelle et pour toutes les autres versions.
+
+AR  أي استخدام لهذا المشروع يخالف أي شرط من شروط القسم 3 يؤدي
+    تلقائيًا إلى إنهاء حقوقك بموجب هذه الرخصة، للنسخة الحالية
+    ولجميع النسخ الأخرى.
+
+EN  Any use of this project that violates any of the conditions in
+    Section 3 will automatically terminate your rights under this
+    License for the current version and for every other version of
+    this project.
+
+================================================================
+  Mohamed Cheikh — MC88
+  mohamed005cheikh@gmail.com
+  https://wa.me/22230726475
+  © 2026. Tous droits réservés · جميع الحقوق محفوظة · All rights reserved.
+================================================================
